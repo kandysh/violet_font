@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Violet_evergarden V14';
+    src: url('Violet_evergardenV14-Regular.eot');
+    src: url('Violet_evergardenV14-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Violet_evergardenV14-Regular.woff2') format('woff2'),
+        url('Violet_evergardenV14-Regular.woff') format('woff'),
+        url('Violet_evergardenV14-Regular.svg#Violet_evergardenV14-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
